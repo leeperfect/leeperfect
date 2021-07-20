@@ -1,4 +1,4 @@
-### Hi there 👋
+### :books: Do what is easy and your life will be hard.  
 
 <!--
 **leeperfect/leeperfect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
